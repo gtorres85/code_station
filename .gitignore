@@ -1,0 +1,5 @@
+#Executable file
+lex
+
+#Visual Studio Code config files
+.vscode/
